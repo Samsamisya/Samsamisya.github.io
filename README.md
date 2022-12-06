@@ -9,4 +9,8 @@
 - **Git** : logiciel de gestion de version
 - **GitHub** : forge logicielle en ligne utilisant Git
 
-2.
+2. Pour l'épreuve E4
+
+- je me présente et présente mon parcours, j'affiche mon CV
+- je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
+- je pale des stages effectué et des projets auxquels j'ai, partcipé
