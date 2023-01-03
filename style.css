@@ -1,0 +1,34 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 9 déc. 2022, 14:34:19
+    Author     : ismae:
+*/
+
+body {
+    margin-top: 100px
+}
+
+.pres{
+    margin-top: -44px;
+    background-color: #D9D9D9;
+    margin-bottom: 100px;
+    padding-bottom: 40px;
+}
+section h1{
+    margin-left: 50px;
+}
+section  img {
+    display: block;
+    justify-content: left;
+}
+section p{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    margin-right: 180px;
+    margin-left: 50px;
+}
+
