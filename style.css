@@ -4,18 +4,16 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 */
 /* 
     Created on : 9 déc. 2022, 14:34:19
-    Author     : ismae:
+    Author     : ismae
 */
 
 body {
     margin-top: 100px
 }
 
-.pres{
+section {
     margin-top: -44px;
-    background-color: #D9D9D9;
-    margin-bottom: 100px;
-    padding-bottom: 40px;
+    background: #D9D9D9;
 }
 section h1{
     margin-left: 50px;
@@ -32,8 +30,41 @@ section p{
     margin-left: 50px;
 }
 
-img{
-    width: 10%;
-    height: 10%;
-       
-}
+.a {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    margin-left: 80px;
+    background: blue;
+    color: white;
+
+    body {
+        margin-top: 100px
+    }
+
+    .pres{
+        margin-top: -44px;
+        background-color: #D9D9D9;
+        margin-bottom: 100px;
+        padding-bottom: 40px;
+    }
+    section h1{
+        margin-left: 50px;
+    }
+    section  img {
+        display: block;
+        justify-content: left;
+    }
+    section p{
+        display: flex;
+        flex-direction: row;
+        font-size: 20px;
+        margin-right: 180px;
+        margin-left: 50px;
+    }
+
+    img{
+        width: 10%;
+        height: 10%;
+
+    }
